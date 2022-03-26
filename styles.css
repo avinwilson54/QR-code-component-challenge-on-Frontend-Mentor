@@ -1,0 +1,47 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-family: 'Outfit', sans-serif;
+    font-size: 22px;
+    width: 250px;
+    margin: 0 auto 20px;
+}
+
+p {
+    font-size: 15px;
+    font-weight: 400;
+    margin: auto;
+    width: 300px;
+    opacity: 0.8;
+}
+
+img {
+    width: 300px;
+    margin: 15px auto;
+    border-radius: 15px;
+}
+
+.container {
+    width: 335px;
+    height: 500px;
+    background-color: white;
+    margin: 110px auto 0;
+    border-radius: 15px;
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a {
+     color: hsl(228, 45%, 44%); 
+    }
+
+.attribution {
+    margin: 80px auto 0;
+}    
